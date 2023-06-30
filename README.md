@@ -1,16 +1,25 @@
-## CATATAN
-Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu Brother!!
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<h1 align="center">Natsumi  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
-    <img src="https://telegra.ph/file/c04f24cd3f2203ffe348f.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+<img src="https://c.tenor.com/CUrnyDl8shQAAAAC/shinobu.gif" />
 </p>
 
-## PENTING
-
-> **Warning**: Script Ini Tidak Support Qr Untuk Saat Ini, Jadi Kalian Bisa Menggunakan Replit Untuk Mengambil Session Atau
-Memakai Sc Lain Untuk Mengambil Session.
-
-<h1 align="center">Hello My Name Is Dims</h1>
 <p align="center">
-  <a href="https://github.com/Im-Dims"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=DimsT+Multi+Device;Base+ori+by+Elaina;Recode+By+DimsT;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+
+-  Nama saya Dims
+-  Saya masih pemula
+-  Saya bukan mastah
 </p>
+
+------
+
+## ```FOLLOW SEMUA SOSIALMEDIA SAYA```
+<p align="center">
+<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.youtube.com/@DimsT1945"><img src="https://img.shields.io/badge/YouTube-c4302b?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://wa.me/6281398274790"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+## ```DONASI```
+
+- [`SAWERIA`](https://saweria.co/dimst)
+
