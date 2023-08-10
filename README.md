@@ -19,6 +19,14 @@
 > * 00:00​ ━❍──────── 12:27 
 > * ↻ㅤㅤ⊲ㅤㅤⅡㅤㅤ⊳ㅤㅤ↺ㅤ
 
+### Status 
+
+<p align="center"><a href="https://github.com/bolaxd"><img src="https://github-readme-stats.vercel.app/api?username=bolaxd&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/bolaxd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolaxd&theme=radical&layout=compact"></a></p> 
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=bolaxd)
+
+</details>
 ------
 
 ## ```SOSIALMEDIA SAYA```
@@ -31,4 +39,3 @@
 ## ```DONASI```
 
 - [`SAWERIA`](https://saweria.co/dimst)
-
