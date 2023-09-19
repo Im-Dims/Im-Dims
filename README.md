@@ -47,6 +47,13 @@ src="https://telegra.ph/file/dbeb3a8474ed3ac47f25f.jpg" alt="YouTube Now Playing
     href="https://youtube.com/@AmaneKanata?si=ZjpAeRWvKRwX-BQ5" target="_blank"><img              
 src="https://telegra.ph/file/dc8e50454e493c86b931e.jpg" alt="YouTube Now Playing" width="350"/></a></p>
 
+> Airani Iofifteen ~
+
+<p align="center">
+  <a 
+    href="https://youtube.com/@AiraniIofifteen?si=u6SPrGHkBl95RDt6" target="_blank"><img              
+src="https://telegra.ph/file/b5a8e02f542bc15defb7f.jpg" alt="YouTube Now Playing" width="350"/></a></p>
+
 ### Status 
 
 <p align="center"><a href="https://github.com/bolaxd"><img src="https://github-readme-stats.vercel.app/api?username=bolaxd&show_icons=true&theme=radical"></a></p>
