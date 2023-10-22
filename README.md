@@ -33,7 +33,7 @@ ___
 > * ↻ㅤㅤ⊲ㅤㅤⅡㅤㅤ⊳ㅤㅤ↺ㅤ
 
 ## My List Istri
-> Viesta Zeta ~
+> Vestia Zeta ~
 
 <p align="center">
   <a 
