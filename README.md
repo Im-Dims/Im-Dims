@@ -18,7 +18,7 @@ Intro = {
 "Fullname": "Dimas Triyatno",
 "Nickname": "Im-Dims",
 "Status": "Nolep",
-"Address": "Bekasi, Jakarta Barat, Indonesia",
+"Address": "Bekasi, Jawa Barat, Indonesia",
 "Age": "....",
 "Birthday": "...."
 }
@@ -37,7 +37,7 @@ ___
 
 <p align="center">
   <a 
-    href="https://youtube.com/@ShirakamiFubuki?si=-saUirDLbNiysNhy" target="_blank"><img              
+    href="https://youtube.com/@VestiaZeta?si=-saUirDLbNiysNhy" target="_blank"><img              
 src="https://telegra.ph/file/7c259f37a9f0054ee6dde.jpg" alt="YouTube Now Playing" width="350"/></a></p>
 
 > Shirakami Fubuki ~
