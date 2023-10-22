@@ -32,7 +32,7 @@ ___
 > * 00:00​ ━❍──────── 12:27 
 > * ↻ㅤㅤ⊲ㅤㅤⅡㅤㅤ⊳ㅤㅤ↺ㅤ
 
-## My Girlfriend
+## My Girlfriend ❤️✨
 > Vestia Zeta ~
 
 <p align="center">
