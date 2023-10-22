@@ -32,7 +32,14 @@ ___
 > * 00:00​ ━❍──────── 12:27 
 > * ↻ㅤㅤ⊲ㅤㅤⅡㅤㅤ⊳ㅤㅤ↺ㅤ
 
-## My Fav Vtuber:
+## My List Istri
+> Viesta Zeta ~
+
+<p align="center">
+  <a 
+    href="https://youtube.com/@ShirakamiFubuki?si=-saUirDLbNiysNhy" target="_blank"><img              
+src="https://telegra.ph/file/dbeb3a8474ed3ac47f25f.jpg" alt="YouTube Now Playing" width="350"/></a></p>
+
 > Shirakami Fubuki ~
 
 <p align="center">
