@@ -32,7 +32,7 @@ ___
 > * 00:00​ ━❍──────── 12:27 
 > * ↻ㅤㅤ⊲ㅤㅤⅡㅤㅤ⊳ㅤㅤ↺ㅤ
 
-## My List Istri
+## My Girlfriend
 > Vestia Zeta ~
 
 <p align="center">
@@ -40,6 +40,7 @@ ___
     href="https://youtube.com/@VestiaZeta?si=-saUirDLbNiysNhy" target="_blank"><img              
 src="https://telegra.ph/file/7c259f37a9f0054ee6dde.jpg" alt="YouTube Now Playing" width="350"/></a></p>
 
+## My Fav Vtuber
 > Shirakami Fubuki ~
 
 <p align="center">
