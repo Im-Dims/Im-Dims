@@ -38,7 +38,7 @@ ___
 <p align="center">
   <a 
     href="https://youtube.com/@ShirakamiFubuki?si=-saUirDLbNiysNhy" target="_blank"><img              
-src="https://telegra.ph/file/dbeb3a8474ed3ac47f25f.jpg" alt="YouTube Now Playing" width="350"/></a></p>
+src="https://telegra.ph/file/7c259f37a9f0054ee6dde.jpg" alt="YouTube Now Playing" width="350"/></a></p>
 
 > Shirakami Fubuki ~
 
