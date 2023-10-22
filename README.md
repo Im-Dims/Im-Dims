@@ -39,6 +39,7 @@ ___
   <a 
     href="https://youtube.com/@VestiaZeta?si=-saUirDLbNiysNhy" target="_blank"><img              
 src="https://telegra.ph/file/7c259f37a9f0054ee6dde.jpg" alt="YouTube Now Playing" width="350"/></a></p>
+------
 
 ## My Fav Vtuber
 > Shirakami Fubuki ~
@@ -61,6 +62,7 @@ src="https://telegra.ph/file/dc8e50454e493c86b931e.jpg" alt="YouTube Now Playing
   <a 
     href="https://youtube.com/@AiraniIofifteen?si=u6SPrGHkBl95RDt6" target="_blank"><img              
 src="https://telegra.ph/file/b5a8e02f542bc15defb7f.jpg" alt="YouTube Now Playing" width="350"/></a></p>
+------
 
 ### Status 
 
