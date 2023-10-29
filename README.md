@@ -43,10 +43,10 @@ src="https://telegra.ph/file/7c259f37a9f0054ee6dde.jpg" alt="YouTube Now Playing
 
 ### Status 
 
-<p align="center"><a href="https://github.com/bolaxd"><img src="https://github-readme-stats.vercel.app/api?username=bolaxd&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/bolaxd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolaxd&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/bolaxd"><img src="https://github-readme-stats.vercel.app/api?username=Im-Dims&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/Im-Dims"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolaxd&theme=radical&layout=compact"></a></p> 
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=bolaxd)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Im-Dims)
 
 </details>
 ------
