@@ -23,7 +23,7 @@ Intro = {
 "Birthday": "...."
 }
 
-m.reply(intro)
+m.reply(Intro)
 ```
 ___
 
