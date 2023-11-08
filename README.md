@@ -22,6 +22,8 @@ Intro = {
 "Age": "....",
 "Birthday": "...."
 }
+
+m.reply(intro)
 ```
 ___
 
