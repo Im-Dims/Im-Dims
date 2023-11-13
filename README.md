@@ -42,13 +42,15 @@ src="https://telegra.ph/file/7c259f37a9f0054ee6dde.jpg" alt="YouTube Now Playing
 ------
 
 ### Status 
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Im-Dims&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Im-Dims&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Im-Dims&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<p align="center"><a href="https://github.com/bolaxd"><img src="https://github-readme-stats.vercel.app/api?username=Im-Dims&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/Im-Dims"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolaxd&theme=radical&layout=compact"></a></p> 
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Im-Dims)
-
-</details>
+<br/><br/>
+<hr/>
 ------
 
 ## ```SOSIALMEDIA SAYA```
