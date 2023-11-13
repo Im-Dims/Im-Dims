@@ -1,5 +1,7 @@
-<h1 align="center">Hallo :3  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
-<p align="center">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hallo+kak+:3;+Aku+Im-Dims;+Aku+masih+pemula+kak;+Jadi+jangan+bully+aku+ya+kak+<3;" />
+</h1>
+
 <img src="https://66.media.tumblr.com/8b1b0816012eddea3ba60ddf87109a6b/tumblr_nvb1ejLY2e1ua9vvpo1_500.gif" />
 </p>
 
@@ -48,7 +50,8 @@ src="https://telegra.ph/file/7c259f37a9f0054ee6dde.jpg" alt="YouTube Now Playing
   <br/><br/><br/>
 </div>
 
-### Status 
+<h2 align="center">Status</h2>
+<br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Im-Dims&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Im-Dims&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
