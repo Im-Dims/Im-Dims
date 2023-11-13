@@ -22,8 +22,6 @@ Intro = {
 "Age": "....",
 "Birthday": "...."
 }
-
-m.reply(Intro)
 ```
 ___
 
