@@ -19,7 +19,7 @@
 Intro = {
 "Fullname": "Dimas Triyatno",
 "Nickname": "Im-Dims",
-"Status": "Nolep",
+"Status": "Pelajar",
 "Address": "Bekasi, Jawa Barat, Indonesia",
 "Age": "....",
 "Birthday": "...."
