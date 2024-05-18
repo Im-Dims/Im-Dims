@@ -34,13 +34,8 @@ ___
 > * 00:00​ ━❍──────── 12:27 
 > * ↻ㅤㅤ⊲ㅤㅤⅡㅤㅤ⊳ㅤㅤ↺ㅤ
 
-## My Girlfriend ❤️✨
-> Vestia Zeta ~
-
-<p align="center">
-  <a 
-    href="https://youtube.com/@VestiaZeta?si=-saUirDLbNiysNhy" target="_blank"><img              
-src="https://telegra.ph/file/7c259f37a9f0054ee6dde.jpg" alt="YouTube Now Playing" width="350"/></a></p>
+## Penyemangat hidup saya
+> [`Click here`](https://im-dims.vercel.app)
 ------
 
 <div align="center">
@@ -61,12 +56,11 @@ src="https://telegra.ph/file/7c259f37a9f0054ee6dde.jpg" alt="YouTube Now Playing
 
 <br/><br/>
 <hr/>
-------
 
 ## ```SOSIALMEDIA SAYA```
 <p align="center">
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-<a href="https://www.youtube.com/@DimsT1945"><img src="https://img.shields.io/badge/YouTube-c4302b?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://instagram.com/dims_t11"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.youtube.com/@Dims_senpai"><img src="https://img.shields.io/badge/YouTube-c4302b?style=for-the-badge&logo=youtube&logoColor=white"/>
 <a href="https://wa.me/6281398274790"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
