@@ -67,3 +67,4 @@ ___
 ## ```DONASI```
 
 - [`SAWERIA`](https://saweria.co/dimst)
+- [`Trakteer`](https://trakteer.id/ssa.api)
