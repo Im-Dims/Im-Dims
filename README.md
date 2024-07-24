@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hallo+kak+:3;+Aku+Im-Dims;+Aku+masih+pemula+kak;+Jadi+jangan+bully+aku+ya+kak+<3;" />
 </h1>
 
-<img src="https://66.media.tumblr.com/8b1b0816012eddea3ba60ddf87109a6b/tumblr_nvb1ejLY2e1ua9vvpo1_500.gif" />
+<img src="https://i.pinimg.com/originals/9e/b6/45/9eb64510150a5eaa7bc6e89e366508e7.gif" />
 </p>
 
 <p align="center">
