@@ -10,6 +10,7 @@
 -  Nama saya Dims
 -  Saya masih pemula
 -  Saya bukan mastah
+-  Dan saya suka loli
 </p>
 
 ------
