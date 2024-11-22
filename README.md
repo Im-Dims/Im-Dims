@@ -76,5 +76,7 @@ Click the button below to visit my full profile:
 
 ### 💖 **Support Me**
 If you enjoy my work, consider supporting me with a donation!
-<a href="https://saweria.co/dimst"> <img src="https://img.shields.io/badge/Donate-Saweria-ff3e00?style=for-the-badge&logo=steam&logoColor=white" /> </a> 
-<a href="https://trakteer.id/ssa.api"> <img src="https://img.shields.io/badge/Donate-Trakteer-4B9F4A?style=for-the-badge&logo=ko-fi&logoColor=white" /> </a>
+<p align="center"> 
+  <a href="https://saweria.co/dimst"> <img src="https://img.shields.io/badge/Donate-Saweria-ff3e00?style=for-the-badge&logo=steam&logoColor=white" /> </a> 
+  <a href="https://trakteer.id/ssa.api"> <img src="https://img.shields.io/badge/Donate-Trakteer-4B9F4A?style=for-the-badge&logo=ko-fi&logoColor=white" /> </a>
+</p>
