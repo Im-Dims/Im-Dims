@@ -11,10 +11,10 @@
 <p align="center">
   I'm a passionate learner, always excited to explore new things. I may be a beginner, but I'm determined to keep improving every day! 🚀
   
-- 📚 Currently a student  
-- 👶 Still a beginner in coding  
-- 💬 Not a master yet, but working on it!  
-- 🎶 I love music and anime, especially loli 😄
+- Currently a student  
+- Still a beginner in coding  
+- Not a master yet, but working on it!  
+- I love music and anime, especially loli 😋
 </p>
 
 ---
